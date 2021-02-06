@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on Flutter
 - 👯 I’m looking to collaborate  
 
-# ✨ ₛₖᵢₗₗₛ
+# <img  height = "40" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/assets/employee-skills-icon-star-sign.webp"/> ₛₖᵢₗₗₛ
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/python.png"></code> Python and DBMS by using Sqlite
-- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/dart.png"></code> Dart
+- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/photo_2021-02-06_10-55-04.jpg"></code> Dart
 -  <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/flutter.png"></code> Flutter
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/bootstrap.png"></code> Bootsrtap
 
@@ -24,15 +24,15 @@
 - Linkedin: [https://www.linkedin.com/in/nvr-39](https://www.linkedin.com/in/nvr-39)
 - Gmail: [thevenkatraju@gmail.com](thevenkatraju@gmail.com)
 
-# ₚᵣₒfᵢₗₑ ₛₜₐₜₛ.
+# <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/assets/demography-diagram-vector-icon-flat.webp"/>ₚᵣₒfᵢₗₑ ₛₜₐₜₛ.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nvrr&theme=buefy&show_icons=true&count_private=true)
 
 
-# ₗₐₙgᵤₐgₑ ₛₜₐₜₛ.
+# <img  height = "35" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/assets/github-icon-apps-website.webp"/>ₗₐₙgᵤₐgₑ ₛₜₐₜₛ.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nvrr&theme=buefy&layout=compact)
 
-# ₘy ᵣₑₚₒₛ.
+# <img  height = "35" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/assets/github-icon-apps-website.webp"/>ₘy ᵣₑₚₒₛ.
 
 [![Flutter_news-app](https://github-readme-stats.vercel.app/api/pin/?username=nvrr&theme=buefy&repo=Flutter_news-app&show_owner=true)](https://github.com/nvrr/Flutter_news-app)
 
