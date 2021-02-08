@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Flutter
 - 👯 I’m looking to collaborate  
 
-# <img  height = "40" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/assets/skill.webp"/> ₛₖᵢₗₗₛ
+# <img  height = "40" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/assets/skil.webp"/> ₛₖᵢₗₗₛ
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/python.png"></code> Python and DBMS by using Sqlite
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/dartt.jpg"></code> Dart
 -  <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/flutter.png"></code> Flutter
