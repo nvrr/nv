@@ -13,9 +13,9 @@
 
 # <img  height = "40" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/assets/skil.webp"/> ₛₖᵢₗₗₛ
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/python.png"></code> Python and DBMS by using Sqlite
-- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/dartt.jpg"></code> Dart
+- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/icons/dart.png"></code> Dart
 -  <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/flutter.png"></code> Flutter
-- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/bootstrap.png"></code> Bootsrtap
+- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/assets/bootstrap4.png"></code> Bootsrtap
 
 
 # <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/assets/images/photo_2021-02-06_11-39-46.jpg"/> Gₑₜ ᵢₙ ₜₒᵤcₕ
@@ -24,7 +24,7 @@
 - Linkedin: [https://www.linkedin.com/in/nvr-39](https://www.linkedin.com/in/nvr-39)
 - Gmail: [thevenkatraju@gmail.com](thevenkatraju@gmail.com)
 
-# <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/assets/demography-diagram-vector-icon-flat.webp"/>ₚᵣₒfᵢₗₑ ₛₜₐₜₛ.
+# <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/assets/profile.png"/>ₚᵣₒfᵢₗₑ ₛₜₐₜₛ.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nvrr&theme=buefy&show_icons=true&count_private=true)
 
 
