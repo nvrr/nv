@@ -28,7 +28,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nvrr&theme=buefy&show_icons=true&count_private=true)
 
 
-# <img  height = "35" width = "45" src= "https://github.com/nvrr/nvrr/blob/main/assets/github-icon-apps-website.webp"/>ₗₐₙgᵤₐgₑ ₛₜₐₜₛ.
+# <img  height = "35" width = "45" src= "https://github.com/nvrr/nvrr/blob/main/assets/git.png"/>ₗₐₙgᵤₐgₑ ₛₜₐₜₛ.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nvrr&theme=buefy&layout=compact)
 
